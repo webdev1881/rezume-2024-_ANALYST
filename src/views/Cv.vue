@@ -110,7 +110,7 @@
               <div class="skil">
                 <li class="nam">{{ "3" | localize }}</li>
                 <div class="val">
-                  <div class="el">{{ 'el33' | localize }}</div>
+                  <!-- <div class="el">{{ 'el33' | localize }}</div> -->
                   <div class="el">{{ 'el3' | localize }}</div>
                   <div class="el">{{ 'el333' | localize }}</div>
                 </div>
@@ -137,7 +137,7 @@
                 </div>
               </div>
 
-              <div class="skil">
+              <!-- <div class="skil">
                 <li class="nam">{{ "6" | localize }}</li>
                 <div class="val">
                   <div class="el">{{ 'el6' | localize }}</div>
@@ -145,7 +145,7 @@
                   <div class="el">{{ 'el666' | localize }}</div>
                   <div class="el">{{ 'el6666' | localize }}</div>
                 </div>
-              </div>
+              </div> -->
 
 
 
@@ -462,7 +462,7 @@ export default {
       }
     }
     .nam {
-      min-width: 215px;
+      min-width: 195px;
       margin-right: 25px;
       font-weight: 600;
     }
