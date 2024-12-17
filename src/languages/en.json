@@ -2,98 +2,98 @@
     "":" ",
     "undefined":" ",
 
-    "firstname": "Lytvynovsky",
+    "firstname": "Lytvynovskyi",
     "lastname": "Volodymyr",
     "posada": "Front-End Developer",
-    "adress": "Ukrain, Kiyv",
+    "adress": "Ukraine, Kyiv",
 
-    "summary": "Frontend developer with full-stack knowledge, experienced in developing a variety of corporate applications, including complex marketplaces, e-commerce platforms, educational portals, CRM systems, and various fintech solutions.",
+    "summary": "A qualified system and business analyst with a comprehensive approach to optimizing business processes, implementing analytical systems, and management accounting. I have extensive experience in automation, standardization, and analysis of business activities.",
 
-    "summary2": "I specialize in implementing advanced technological solutions to create products that accelerate business objectives and maximize user experience.",
-
+    "summary2": "Overall, I specialize in implementing advanced technological solutions to create various products that accelerate business goals and maximize user experience.",
 
     "skills": "Key Skills",
-    "exp": "Professional Experiance",
-    "port": "Portfolio examples",
+    "exp": "Professional Experience",
+    "port": "Portfolio Examples",
 
-    "1": "Programming Languages",
-    "2": "Frontend Frameworks",
-    "3": "Styling",
-    "4": "UI Libraries",
-    "5": "Data Visualization",
-    "6": "Build Tools",
-    "7": "Version Control",
+    "add": "Additional Competencies",
+
+    "add0": "Professional Expectations",
+    "add00": "Interesting IT projects in the distribution and e-commerce sectors",
+    "add000": "Implementation of innovative technologies",
+    "add0000": "Projects in the distribution and e-commerce sectors",
+    "add00000": "Remote work opportunity (or right-bank Kyiv)",
+
+    "job1": "RGC (energy)",
+    "job11": "System Analyst, Frontend Developer",
+    "job111": "06/2020 - Present",
+    "job1111": "Marketplace development. Support for the online store and monitoring CRM system.",
+
+    "job11111": "Development of a B2C marketplace platform",
+    "job111111": "Product and seller balance management",
+    "job1111111": "Integration with payment systems and delivery services",
+    "job11111111": "Real-time product tracking system",
+    "job111111111": "Analytical reports for merchants",
+
+    "job01": "Support for online stores",
+    "job011": "Performance optimization and functionality improvements",
+    "job0111": "Integration with third-party APIs",
+    "job01111": "Responsive design",
+
+    "job2": "Invest-Kom (GKF)",
+    "job22": "Frontend Developer",
+    "job222": "05/2017 - 05/2020",
+    "job2222": "CRM system development",
+
+    "job22222": "Customer data management and analytics",
+    "job222222": "KPI monitoring dashboards",
+    "job2222222": "Business process automation",
+
+    "0": "Strategic Analysis",
+    "1": "Technical Skills",
+    "2": "Languages and Technologies",
+    "3": "Methodologies",
+    "4": "Analysis and Reporting",
+    "5": "Implementation",
+    "6": "Additional Competencies",
+    "7": "Version Control Systems",
     "8": "API Integration",
     "9": "Backend",
     "10": "Databases",
     "11": "Testing",
     "12": "Tools",
 
+    "el0": "Strategic Analysis and Management",
+    "el00": "Development and Implementation of Analytical Systems",
+    "el000": "Management Accounting and Reporting",
+    "el0000": "Sales Analysis and Forecasting",
+    "el00000": "Market and Competitive Environment Analysis",
 
-    "add": "Additional skills",
+    "el1": "Power BI (Power Query)",
+    "el11": "Microsoft Analytics Services (SSAS)",
 
-    "add1": "Implementation of server-side rendering",
-    "add2": "Version control systems and CI/CD pipeline",
-    "add3": "Search Engine Optimization",
-    "add4": "UI/UX Interface Design",
-    "add5": "Responsive and cross-browser web applications",
-    "add6": "Application testing",
-    "add7": "Сode reviews",
-    "add8": "Clean Code and SOLID principles",
-    "add9": "Agile/Scrum methodology",
-    "add10": "Сonducting conferences",
+    "el2": "SQL",
+    "el22": "MDX | DAX",
+    "el222": "JavaScript | NodeJS",
 
+    "el33": "Agile",
+    "el3": "Scrum",
+    "el333": "Kanban",
 
-    
-    "job1": "RGC",
-    "job11": "Frontend Developer",
-    "job111": "06/2020 - Present",
-    "job1111": "Team developing marketplace. Creating online stores, CRM system, and modular  libraries.",
+    "el4": "Wholesale Sales and Procurement Analysis",
+    "el44": "KPI Management Reporting",
+    "el444": "Reporting Automation",
+    "el4444": "Monitoring Tools for the Company and Regional Offices",
 
-    "job11111": "Development of B2C marketplace platform",
-    "job111111": "Product management and vendor balance administration",
-    "job1111111": "Integration with payment systems and delivery services",
-    "job11111111": "Real-time inventory tracking system",
-    "job111111111": "Analytics reports for merchants",
+    "el5": "Management Accounting Systems Development",
+    "el55": "Writing Specifications and User Stories Based on Business Requirements",
+    "el555": "Implementation of Analytical Systems (SAP ERP and CRM)",
+    "el5555": "ETL Processes",
+    "el55555": "Machine Learning",
 
-    "job01": "E-commerce platforms maintenance",
-    "job011": "Performance optimization and feature enhancement",
-    "job0111": "Integration with third-party APIs",
-    "job01111": "Responsive design implementation",
-
-
-
-    "job2": "Invest-Сom",
-    "job22": "Frontend Developer",
-    "job222": "05/2017 - 05/2020",
-    "job2222": "Development of the CRM system",
-
-    "job22222": "Customer data management and analytics",
-    "job222222": "KPI monitoring dashboards",
-    "job2222222": "Business process automation",
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    "el6": "Time Management",
+    "el66": "Working with APIs",
+    "el666": "Interaction with the Development Team",
+    "el6666": "System Support and Implementation",
 
     "end": ""
 }
